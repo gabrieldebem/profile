@@ -1,0 +1,36 @@
+export const lang = {
+  "en": {
+    "job": "Software Engineer",
+    "pronouns": "he/him",
+    "about": "About me",
+    "mail_button": "Mail me",
+    "resume_button": "Resume",
+    "experience_paragraph": "I've been a software developer for 5 years, and for the same period, I've been working in the financial industry. I've worked on integrating with Instant Payment APIs (PIX), bank transfers (TED), identity recognition and validation, investment simulations in both fixed and variable income, integration with brokerage APIs, and managing consulting clients by measuring their deviation from goals.",
+    "technologies_paragraph": "I mainly work with PHP (I really like the Laravel ecosystem, its ease of use is amazing, especially with the TALL Stack), and NodeJS (working both as a Backend developer --using Express and NestJS-- and on the frontend with React and Vue). I also enjoy exploring Golang, particularly for microservices and processes where performance is key.",
+    "goals_title": "My main goals within a company are:",
+    "goals": [
+      "To be recognized as a problem solver",
+      "To be recognized as a process optimizer",
+      "To always leave the code and development environment better than before",
+      "To contribute to or create a more cohesive and collaborative team environment",
+    ],
+    "conclusion_paragraph": "Feel free to reach out through the channels provided if you'd like to know more.",
+  },
+  "pt_br": {
+    "job": "Desenvolvedor de Software",
+    "pronouns": "ele/dele",
+    "about": "Sobre mim",
+    "mail_button": "Me envie um e-mail",
+    "resume_button": "Currículo",
+    "experience_paragraph": "Sou um Desenvolvedor de software há 5 anos e ha 5 anos trabalho no mercado financeiro. Já trabalhei na integração com Api de Pagamento Intantaneo (PIX), Transaferencia bancaria (TED), Reconhecimento e validação de identidade, simulação de investimentos em Renda Fixa e Variavel, Integração com apis de corretoras e gestão de clientes de consultoria medindo seu desvio do objetivo.",
+    "technologies_paragraph": "Trabalho majoritariamente com PHP (gosto muito do ecossistema Laravel, a facilidade é incrivel, principalmente usando a TALL Stack), NodeJS (atuando tanto como Backend --Express e NestJS-- quanto como frontend com React e Vue), mas gosto de me aventurar um pouco usando Golang (principalmente para microserviços e processos que exigem ou são cobrados por performace).",
+  "goals_title": "Meu maiores objetivos dentro de uma empresa são:",
+  "goals": [
+    "Ser reconhecido como resolvedor de problemas",
+    "Ser reconhecido como otimizador de processos",
+    "Sempre deixar o código e o ambiente de desenvolvimento melhor do que antes",
+    "Contribuir para, ou desenvolver um ambiente melhor e mais entrosado entre a equipe",
+  ],
+  "conclusion_paragraph": "Se quiser saber mais, sinta-se a vontade para entrar em contato nos canais ao lado.", 
+  },
+};
